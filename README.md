@@ -12,11 +12,11 @@
 
 ## Demo
 Here is a working live demo :  [here](https://alexandercds.github.io/poke-token/)
-# ![PokeToke Preview 1](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview01.jpg)
+# ![PokeToke Preview 1](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview-01.jpg)
 
-# ![PokeToke Preview 2](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview02.jpg)
+# ![PokeToke Preview 2](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview-02.jpg)
 
-# ![PokeToke Preview 3](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview03.jpg)
+# ![PokeToke Preview 3](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview-03.jpg)
 
 ### Bug / Feature Request
 
