@@ -1,5 +1,5 @@
 
-# ![PokeToke](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview.jpg)
+# ![PokeToke](https://raw.githubusercontent.com/alexandercddev/poke-token/master/src/assets/images/preview.jpg)
 # PokeToke
 <table>
 <tr>
@@ -11,16 +11,19 @@
 
 
 ## Demo
-Here is a working live demo :  [here](https://alexandercds.github.io/poke-token/)
-# ![PokeToke Preview 1](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview-01.jpg)
+Here is a working live demo :  [here](https://alexandercddev.github.io/poke-token/)
 
-# ![PokeToke Preview 2](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview-02.jpg)
+# ![PokeToke Preview 1](https://raw.githubusercontent.com/alexandercddev/poke-token/master/src/assets/images/preview-00.jpg)
 
-# ![PokeToke Preview 3](https://raw.githubusercontent.com/alexandercds/poke-token/master/src/assets/images/preview-03.jpg)
+# ![PokeToke Preview 1](https://raw.githubusercontent.com/alexandercddev/poke-token/master/src/assets/images/preview-01.jpg)
+
+# ![PokeToke Preview 2](https://raw.githubusercontent.com/alexandercddev/poke-token/master/src/assets/images/preview-02.jpg)
+
+# ![PokeToke Preview 3](https://raw.githubusercontent.com/alexandercddev/poke-token/master/src/assets/images/preview-03.jpg)
 
 ### Bug / Feature Request
 
-If you find a bug, kindly open an issue [here](https://github.com/alexandercds/poke-token/issues/new)
+If you find a bug, kindly open an issue [here](https://github.com/alexandercddev/poke-token/issues/new)
 
 ## Built with 
 
